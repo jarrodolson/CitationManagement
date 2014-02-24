@@ -1,1 +1,1 @@
-This is a program for converting a folder worth of RIS citation files to BibTex format for use in LaTex.
+This is a package of scripts for handling citations. _BibtexConverter is a program for converting a folder worth of RIS citation files to BibTex format for use in LaTex.
