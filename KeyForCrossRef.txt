@@ -1,0 +1,11 @@
+author = AU,A1,A2,A3
+title = T1,TI
+journal = JO,T2,JF,WC
+volume = VL
+number = IS
+pages = [special case]
+year = PY,Y1
+publisher = [special case]
+series = S2
+address = AD
+edition = ET
